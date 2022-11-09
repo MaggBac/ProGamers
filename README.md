@@ -1,3 +1,3 @@
 # ProGamers
 
-## Responsive website created using bootstrap
+Responsive website created using bootstrap
